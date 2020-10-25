@@ -2,9 +2,9 @@
 Approaches the area of a circle using regular n-gons.
 
 ## Description
-Illustrates regular n-gons approximating a circle
-Produces three graphs which compares various properties of n-gons and provides a graphical representation of the problem
-Uses the area of n-gons to approximate pi
+-Illustrates regular n-gons approximating a circle
+-Produces three graphs which compares various properties of n-gons and provides a graphical representation of the problem
+-Uses the area of n-gons to approximate pi
 
 ## Output
 
